@@ -1,4 +1,4 @@
-baseURL = 'https://ecekaptan.github.io/blog/'
+baseURL = 'https://ecekaptan.github.io/'
 languageCode = 'en-US'
 title = 'Ece Kaptan'
 theme = 'PaperMod'
